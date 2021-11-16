@@ -1,0 +1,2 @@
+# dist
+Schoolproject, API client
